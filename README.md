@@ -45,6 +45,8 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 2 - Optimization](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week6/Optimization/Optimization_methods_v1b.ipynb)
   + [Week 3 - TensorFlow](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/2.%20Improving%20Deep%20Neural%20Networks-Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/Week7/Tensorflow/TensorFlow_Tutorial_v3b.ipynb)
 
+  Quizzes:
+  
 - **Course 3: Structuring Machine Learning Projects**
 
   Objectives:  
@@ -75,6 +77,8 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 4 - Face Recognition for the Happy House - v3](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/3.%20Convolutional%20Neural%20Networks/Face%20Recognition/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
   + [Week 4 - Art Generation with Neural Style Transfer - v2.ipynb](https://github.com/raghunandepu/Deep-Learning-Specialization-Coursera/blob/master/3.%20Convolutional%20Neural%20Networks/Neural%20Style%20Transfer/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
 
+  Quizzes:
+  
 - **Course 5: Sequence Models**
   Objectives:
   + Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
