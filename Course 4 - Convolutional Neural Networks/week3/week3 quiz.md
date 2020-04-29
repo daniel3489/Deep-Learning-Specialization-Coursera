@@ -1,4 +1,4 @@
-## Week 2 quiz - Detection algorithms
+## Week 3 quiz - Detection algorithms
 
 1. You are building a 3-class object classification and localization algorithm. The classes are: pedestrian (c=1), car (c=2), motorcycle (c=3). What would be the label for the following image? Recall y=[pc,bx,by,bh,bw,c1,c2,c3]
 
