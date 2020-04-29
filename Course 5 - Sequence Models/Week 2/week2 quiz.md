@@ -1,4 +1,4 @@
-## Week 1 Quiz - Sequence models & Attention mechanism
+## Week 2 Quiz - Sequence models & Attention mechanism
 
 1. This model is a “conditional language model” in the sense that the encoder portion (shown in green) is modeling the probability of the input sentence x.
 	
