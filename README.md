@@ -28,6 +28,10 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 4 - Deep Neural Network: Application](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20Application_%20Image%20Classification/Deep%20Neural%20Network%20-%20Application%20v8.ipynb)
 
   Quizzes:
+  + [Week 1](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%201/week1%20quiz.md)
+  + [Week 2](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%202/week2%20quiz.md)
+  + [Week 3](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%203/week3%20quiz.md)
+  + [Week 4](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%201%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/week4%20quiz.md)
   
 - **Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 
@@ -46,6 +50,9 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 3 - TensorFlow](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/TensorFlow_Tutorial_v3b.ipynb)
 
   Quizzes:
+  + [Week 1](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week1/week1%20quiz.md)
+  + [Week 2](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week2/week2%20quiz.md)
+  + [Week 3](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%202%20-%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3/week3%20quiz.md)
   
 - **Course 3: Structuring Machine Learning Projects**
 
@@ -59,6 +66,8 @@ This repo contains all my work for this specialization. All the code base and im
   + There are no Program Assignments for this course. But this course comes with very interesting case study quizzes.
 
   Quizzes:
+  + [Week 1](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%203%20-%20Structuring%20Machine%20Learning%20Projects/week1%20quiz.md)
+  + [Week 2](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%203%20-%20Structuring%20Machine%20Learning%20Projects/week2%20quiz.md)
   
 - **Course 4: Convolutional Neural Networks**
 
@@ -78,6 +87,10 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 4 - Art Generation with Neural Style Transfer](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/week4/Neural%20Style%20Transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
 
   Quizzes:
+  + [Week 1](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/week1/week1%20quiz.md)
+  + [Week 2](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/week2/week2%20quiz.md)
+  + [Week 3](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/week3/week3%20quiz.md)
+  + [Week 4](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%204%20-%20Convolutional%20Neural%20Networks/week4/week4%20quiz.md)
   
 - **Course 5: Sequence Models**
   Objectives:
@@ -95,4 +108,6 @@ This repo contains all my work for this specialization. All the code base and im
   + [Week 3 - Trigger word detection - v1](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%205%20-%20Sequence%20Models/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
 
   Quizzes:
-  
+  + [Week 1](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%205%20-%20Sequence%20Models/Week%201/week1%20quiz.md)
+  + [Week 2](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%205%20-%20Sequence%20Models/Week%202/week2%20quiz.md)
+  + [Week 3](https://github.com/daniel3489/Deep-Learning-Specialization-Coursera/blob/master/Course%205%20-%20Sequence%20Models/Week%203/week3%20quiz.md)
